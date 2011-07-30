@@ -1,0 +1,2 @@
+Note: demo_app2 is create in Rails 3.1.0rc5.
+Date: 07-30-2011
